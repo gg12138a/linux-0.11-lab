@@ -14,3 +14,5 @@ Ref:
 [IA-32 Intel Architecture Software Developer's Manual, Volume 3: System Programming Guide](http://www.msc.uky.edu/ken/cs470/intel/ia-32v3.pdf)
 
 [Intel Pentium 4 and Intel Xeon Processor Optimization Reference Manual](http://www.msc.uky.edu/ken/cs470/intel/p4opt.pdf)
+
+*from [CS-470G](http://www.msc.uky.edu/ken/cs470/)*
